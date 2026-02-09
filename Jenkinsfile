@@ -10,7 +10,7 @@ pipeline {
 
         stage('Checkout Code') {
             steps {
-                git 'https://github.com/your-username/python-docker-app.git'
+                git 'https://github.com/Lucky82477/jenkin-ci-cd.git'
             }
         }
 
